@@ -1,0 +1,23 @@
+body{
+    margin: auto;
+    ;
+}
+#container{
+    width: 10000px;
+    height: 500px;
+
+}
+#content{
+    width: 700px; 
+    height: 500px;
+    background-color: cadetblue;
+}
+#right{
+    width: 200px;
+    height: 500px;
+    float: left;
+}
+#right>img{
+    width: 150px;
+    height: 150px;
+}

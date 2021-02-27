@@ -1,0 +1,12 @@
+td:nth-child(2n){
+    width: 75%;
+}
+td:nth-child(2n+1){
+    width: 25%;
+}
+img{
+    border: black;
+}
+td{
+    padding: 10px;
+}
